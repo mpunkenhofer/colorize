@@ -14,15 +14,15 @@ we just placed. Of this neighbors we choose the best location (where euclidean d
 about to place. As we iterate over the generated colors the number of available locations increases by the number of uncolored 
 neighbors of the location we picked for the current color. Once there are no more colors or available locations we are done.
 
-![image 1](https://imgur.com/FHsMIsE)
+<img src="https://i.imgur.com/FHsMIsE.png"/>
 
-![image 2](https://imgur.com/Fimji6o)
+<img src="https://i.imgur.com/Fimji6o.png"/>
 
-![image 3](https://imgur.com/nqa0rPP)
+<img src="https://i.imgur.com/nqa0rPP.png"/>
 
-![image 4](https://imgur.com/faIQAEw)
+<img src="https://i.imgur.com/faIQAEw.png"/>
 
-![image 5](https://imgur.com/2ytgLGf)
+<img src="https://i.imgur.com/2ytgLGf.png"/>
 
 # Video
 I made a 1920x1080 render by capturing snapshots every (Nr. of Frames / 660) percent colored for roughly ~10s 60 fps 
